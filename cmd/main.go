@@ -13,7 +13,7 @@ import (
 )
 
 var (
-	USAGE_LIMIT        = 55
+	USAGE_LIMIT        = 85
 	RAM_SIZE_KB        int
 	RAM_USAGE_LIMIT_KB int
 
